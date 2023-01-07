@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Noel Nathanael
-- 👀 I’m interested in Database and Software Engineering
-- 🌱 I’m currently a Computer Science student and will be graduating at 2025
-- 💞️ I’m looking to learn more about SE and DBE
+- 👋 Greetings! You can call me Noel.
+- 👀 I’m interested code, literally code. 
+- 🌱 I’m currently a Computer Science student
+- 💞️ On a progress learning SE, BEe, DBe.
 - 📫 You can reach me thru www.noelnathanael.com (undeploy yet)
 
 <!---
